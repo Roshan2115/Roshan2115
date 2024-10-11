@@ -1,4 +1,4 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+![MasterHead](https://t4.ftcdn.net/jpg/09/61/45/53/240_F_961455324_oKKypt5WBqTYtJq1HXEX9MDFXfmfUQvs.jpg)
 
 <h1 align="center">Hi 👋, I'm Roshan Mishra</h1>
 <h3 align="center">A passionate Software Developer</h3>
